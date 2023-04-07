@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Sean Bupara"
-baseURL = "http://localhost:1313/"
+baseURL = " https://sbupara.github.io/buparasite/."
 theme = "massively"
 googleanalytics = ""
 disqusShortname = ""
